@@ -2,6 +2,7 @@
 |---|---|---|---|
 | A sterile patch is not a dirty fork | Johan Thomsen | Lightning | [Link](./johan-thomsen_a-sterile-patch-is-not-a-dirty-fork.pdf) |
 | Beyond the DBaaS Trap: Achieving Data Sovereignty With Kubernetes and CloudNativePG | Gabriele Bartolini | Keynote | [Link](./gabriele-bartolini_beyond-the-dbaas-trap-achieving-data-sovereignty-with-kubernetes-and-cloudnativepg.pdf) |
+| Building Platforms with Crossplane: A Hands-On Introduction | Riccardo Capraro | Workshop | [Link](./riccardo-capraro_building-platforms-with-crossplane-a-hands-on-introduction.pdf) |
 | Digital Sovereign Agentic Coding | Rasmus Steiniche | Talk | [Link](./rasmus-steiniche_digital-sovereign-agentic-coding.pdf) |
 | Do You Trust Your PodDisruptionBudgets? You Shouldn’t! | Kārlis Akots Gribulis | Talk | [Link](./karlis-akots-gribulis_do-you-trust-your-poddisruptionbudgets-you-shouldnt.pdf) |
 | Durable Execution at Uber Scale: Orchestrating Multi-Region Resilience with Cadence | Seva Kaloshin | Talk | [Link](./seva-kaloshin_durable-execution-at-uber-scale-orchestrating-multi-region-resilience-with-cadence.pdf) |
