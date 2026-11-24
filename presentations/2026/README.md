@@ -11,10 +11,13 @@
 | How we used Crossplane for the things we should not have | Liene Luksika | Talk | [Link](./liene-luksika_how-we-used-crossplane-for-the-things-we-should-not-have.pdf) |
 | Make Sovereign Cloud Boring: One Binary to Run Kubernetes Anywhere | Steffen Karlsson, Nicklas Frahm | Talk | [Link](./steffen-karlsson_and_nicklas-frahm_make-sovereign-cloud-boring-one-binary-to-run-kubernetes-anywhere.pdf) |
 | OpenTelemetry Collector in Production: Real-World User Stories | Johanna Öjeling | Lightning | [Link](./johanna-ojeling_opentelemetry-collector-in-production-real-world-user-stories.pdf) |
+| PostgreSQL on Kubernetes: A Hands-On Introduction to CloudNativePG | Gabriele Bartolini | Workshop | [Link](./gabriele-bartolini_postgresql-on-kubernetes-a-hands-on-introduction-to-cloudnativepg.pdf) |
 | Scaling the Agentic Web with Agent Substrate | Abdel Sghiouar | Talk | [Link](./abdel-sghiouar_scaling-the-agentic-web-with-agent-substrate.pdf) |
 | The AI side effects we’re not talking about | Marcus Noble | Talk | [Link](./marcus-noble_the-ai-side-effects-were-not-talking-about.pdf) |
+| The lazy developer’s guide to observing your own code | Adriana Villela, Diana Todea | Talk | [Link](./adriana-villela_and_diana-todea_the-lazy-developers-guide-to-observing-your-own-code.pdf) |
 | The Reinvention of Software Engineering | Hannah Foxwell | Keynote | [Link](./hannah-foxwell_the-reinvention-of-software-engineering.pdf) |
 | Trust Me, I’m Internal: Building a Custom Root of Trust for Kubernetes Workloads | Jakub Krzywda, Cristian Klein | Talk | [Link](./jakub-krzywda_and_cristian-klein_trust-me-im-internal-building-a-custom-root-of-trust-for-kubernetes-workloads.pdf) |
 | Two Standards Walk Into an Agent: Runtime Agent Control with OpenTelemetry and OpenFeature | Simon Schrottner | Talk | [Link](./simon-schrottner_two-standards-walk-into-an-agent-runtime-agent-control-with-opentelemetry-and-openfeature.pdf) |
 | What goblins and druids can teach us about enterprise AI | Michael Coté | Keynote | [Link](./michael-cote_what-goblins-and-druids-can-teach-us-about-enterprise-ai.pdf) |
+| Whose Code is it Anyways? | Adriana Villela, Josh Lee | Talk | [Link](./adriana-villela_and_josh-lee_whose-code-is-it-anyways.pdf) |
 | Your platforms matter more than ever with AI | Jessica Andersson | Talk | [Link](./jessica-andersson_your-platforms-matter-more-than-ever-with-ai.pdf) |
