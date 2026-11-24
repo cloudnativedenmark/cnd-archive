@@ -4,6 +4,7 @@ This repository contains [Cloud Native Denmark](https://cloudnativedenmark.dk) r
 
 ## Presentations
 
+- [Cloud Native Denmark 2026](presentations/2026)
 - [Cloud Native Denmark 2025](presentations/2025)
 - [KCD Denmark 2024](presentations/2024)
 - [KCD Denmark 2023](presentations/2023)
