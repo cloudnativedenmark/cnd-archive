@@ -18,6 +18,7 @@
 | The Reinvention of Software Engineering | Hannah Foxwell | Keynote | [Link](./hannah-foxwell_the-reinvention-of-software-engineering.pdf) |
 | Trust Me, I’m Internal: Building a Custom Root of Trust for Kubernetes Workloads | Jakub Krzywda, Cristian Klein | Talk | [Link](./jakub-krzywda_and_cristian-klein_trust-me-im-internal-building-a-custom-root-of-trust-for-kubernetes-workloads.pdf) |
 | Two Standards Walk Into an Agent: Runtime Agent Control with OpenTelemetry and OpenFeature | Simon Schrottner | Talk | [Link](./simon-schrottner_two-standards-walk-into-an-agent-runtime-agent-control-with-opentelemetry-and-openfeature.pdf) |
+| Unified Observability for PostgreSQL on Kubernetes: Logs, Traces, and Metrics under One Roof | Gabriele Rossini | Talk | [Link](./gabriele-rossini_unified-observability-for-postgresql-on-kubernetes-logs-traces-and-metrics-under-one-roof.pdf) |
 | What goblins and druids can teach us about enterprise AI | Michael Coté | Keynote | [Link](./michael-cote_what-goblins-and-druids-can-teach-us-about-enterprise-ai.pdf) |
 | Whose Code is it Anyways? | Adriana Villela, Josh Lee | Talk | [Link](./adriana-villela_and_josh-lee_whose-code-is-it-anyways.pdf) |
 | Your platforms matter more than ever with AI | Jessica Andersson | Talk | [Link](./jessica-andersson_your-platforms-matter-more-than-ever-with-ai.pdf) |
